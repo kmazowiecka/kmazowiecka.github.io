@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Homepage of Katarzyna Mazowiecka</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<!-- Le styles -->
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<style>
+body {
+	padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+</style>
+<link href="../bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="../bootstrap/js/html5shiv.js"></script>
+		<![endif]-->
+
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../bootstrap/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="../bootstrap/ico/favicon.png">
+</head>
+
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container">
+<!--
+			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+-->
+			<a class="brand" href="index.html">Katarzyna Mazowiecka</a>
+			<a class="brand" href="dydaktyka/chemia14.html">Teaching</a>
+			<a class="brand" href="http://mimuw.edu.pl/~kamaz/notes.html">Notes </a>
+			<a class="brand" href="research.html">Research</a>
+			<a class="brand" href="other.html"> Other</a>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span3">
+			<ul class="nav nav-pills nav-stacked" role="tablist">
+				<li><a href="chemia14.html">Matematyka A (2014/2015)</a></li>
+				<li><a href="am1.html">Analiza Matematyczna I.1 (2013/2014)</a></li>
+				<li  class="active"><a href="chemia1.html">Matematyka A (2012/2013)</a></li>
+			</ul>
+		</div>
+		<div class="span7">
+
+		<b>Punktacja z ćwiczeń</b>
+		<br>
+		Proponowaną liczbę punktów z ćwiczeń znajdą Państwo <a href="http://mimuw.edu.pl/~km262765/oceny.pdf">tutaj</a>
+		<br>	
+		<br>
+		<u>Pierwsza seria zadań domowych</u>
+		<ol>
+			<li>Zadania 14 i 16 <a href="http://mimuw.edu.pl/~krych/chemia/2012-2013/ch11-12_geoman2.pdf">stąd</a>
+			<li>Termin oddawania zadań- 23 października
+		</ol>
+		<br>
+		<u>Druga seria zadań domowych</u>
+		<ol>
+			<li>Zadania znajdują się <a href="http://www.mimuw.edu.pl/~km262765/zad2.pdf">tutaj</a>
+			<li> Termin oddawania zadań- 13 listopada 2012
+		</ol>
+		<u>Trzecia seria zadań domowych</u>
+		<ol>
+			<li>Zadania znajdują się <a href="http://www.mimuw.edu.pl/~pp248360/dydaktyka/pochodne.pdf">tutaj</a>
+			<li>Termin oddawania zadań- 3 grudnia 2012. Zadania chętnie przyjmę wcześniej w całości, albo chociaż kilka przykładów.
+		</ol>
+		<ol>
+		<u>Czwarta seria zadań domowych</u>
+			<li>Zadania znajdują się <a href="http://www.mimuw.edu.pl/~krych/chemia/2012-2013/che6_pochodne_w_rz.pdf">tutaj</a>. Należy zrobić zadanie 7.6 podpunkt e oraz 7.40
+			<li>Termin oddawania zadań domowych- 21 stycznia 2013
+			<br>
+			<br>
+		<b>Konsultacje:</b> piątki 14-15:30 (lub jeśli komuś nie pasuje proszę się umawiać mailowo), p.5040 wydział MIMUW.
+		<br>
+		<br>
+		<u>Zasady zaliczania ćwiczeń:</u>
+		<br>
+		Na ćwiczeniach będzie możliwość zdobycia od 0 do 30 punktów.  Punkty można zdobywać na 3 sposoby:
+		<ol>
+		<li><b>Pisemne serie prac domowych: 0-10 pkt</b> Będą 4 serie prac domowych zadawanych z tygodniowym wyprzedzeniem. Zadania będą umieszczane na stronie internetowej, a także będą rozdawane podczas zajęć. Mają Państwo obowiązek rozumieć oddawane zadania i być w stanie zreferować je przy tablicy.  Nieumiejętność zreferowania swojego zadania przy tablicy bedzie oznaczała kasację pracy domowej, a także odjęcie 10 punktów od ostatecznego wyniku (UWAGA: oznacza to, że jeśli ktoś się postara będzie w stanie dostać nawet -40 punktów na koniec ćwiczeń).</li>
+		<li><b>Kartkówki: 0-15 pkt</b> Będą 4 NIEZAPOWIEDZIANE kartkówki, każda oceniana od 0 do 5 punktów. Do ostatecznego wyniku będą liczyły się 3 najlepsze kartkówki.</li>		
+		<li><b>Aktywność: 0-5 pkt</b> </li>
+		</ol>
+		Ćwiczenia są obowiązkowe. Osoba, której zdarzy się nie przyjść na ćwiczenia 5 razy, musi liczyć się z niezaliczeniem ćwiczeń i niedopuszczeniem do egzaminu.
+		<br>
+		<br>		
+		<u>Przydatne linki:</u>
+		<br>
+		<a href="http://www.mimuw.edu.pl/~krych/chemia/2012-2013/"> Strona wykładowcy </a>
+		<br>
+		<hr>
+		</div>
+
+	</div> 
+</div> <!-- /container -->
+
+<!-- Le javascript
+																																																																																																																																																																																																																																																														 ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../bootstrap/js/jquery.js"></script>
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+</body>
+</html>
